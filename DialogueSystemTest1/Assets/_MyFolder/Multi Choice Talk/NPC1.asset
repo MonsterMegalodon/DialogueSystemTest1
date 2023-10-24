@@ -13,5 +13,12 @@ MonoBehaviour:
   m_Name: NPC1
   m_EditorClassIdentifier: 
   name: 
-  NPCdialogue: 
-  PlayerDialogue: 
+  NPCDialogue:
+  - Hello Dialogue started
+  - Talk back 1
+  - talk back 2
+  - End NPC Dialogue
+  PlayerDialogue:
+  - Answer 1
+  - Answer 2
+  - End Dialogue
